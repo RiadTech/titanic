@@ -6,9 +6,9 @@ Exploratory Data Analysis on Titanic Dataset
 
 Dataset: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
-#About Dataset:
+# About Dataset:
 
-##Features of the dataset: 
+## Features of the dataset: 
 
 - survival - Survival (0 = No; 1 = Yes)
 - class - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
@@ -24,7 +24,7 @@ Dataset: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
 
 
-##Questions :
+## Questions :
 1. Display Top 5 Rows of The Dataset
 2. Check the Last 3 Rows of The Dataset
 3. Find Shape of Our Dataset (Number of Rows & Number of Columns)
